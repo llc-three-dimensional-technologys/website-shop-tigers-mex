@@ -661,60 +661,43 @@
     <section class="container">
 
 
-        <!-- Banners -->
-        <div class="banners-wrap">
-            <div class="banners-list">
-                <div class="banner-i style_11">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/560x360);"></span>
-                    <div class="banner-i-cont">
-                        <p class="banner-i-subttl">NEW COLLECTION</p>
-                        <h3 class="banner-i-ttl">MEN'S<br>CLOTHING</h3>
-                        <p class="banner-i-link"><a href="section.html">View More</a></p>
-                    </div>
-                </div>
-                <div class="banner-i style_22">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
-                    <div class="banner-i-cont">
-                        <p class="banner-i-subttl">GREAT COLLECTION</p>
-                        <h3 class="banner-i-ttl">CLOTHING<br>ACCESSORIES</h3>
-                        <p class="banner-i-link"><a href="section.html">Show more</a></p>
-                    </div>
-                </div>
-                <div class="banner-i style_21">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
-                    <div class="banner-i-cont">
-                        <h3 class="banner-i-ttl">SPORT<br>CLOTHES</h3>
-                        <p class="banner-i-link"><a href="section.html">Go to catalog</a></p>
-                    </div>
-                </div>
-                <div class="banner-i style_21">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
-                    <div class="banner-i-cont">
-                        <h3 class="banner-i-ttl">MEN AND <br>WOMEN SHOES</h3>
-                        <p class="banner-i-link"><a href="section.html">View More</a></p>
-                    </div>
-                </div>
-                <div class="banner-i style_22">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
-                    <div class="banner-i-cont">
-                        <p class="banner-i-subttl">DISCOUNT -20%</p>
-                        <h3 class="banner-i-ttl">HATS<br>COLLECTION</h3>
-                        <p class="banner-i-link"><a href="section.html">Shop now</a></p>
-                    </div>
-                </div>
-                <div class="banner-i style_12">
-                    <span class="banner-i-bg" style="background: url(http://placehold.it/560x360);"></span>
-                    <div class="banner-i-cont">
-                        <p class="banner-i-subttl">STYLISH CLOTHES</p>
-                        <h3 class="banner-i-ttl">WOMEN'S COLLECTION</h3>
-                        <p>A great selection of dresses, <br>blouses and women's suits</p>
-                        <p class="banner-i-link"><a href="section.html">View More</a></p>
-                    </div>
-                </div>
+        <!-- Slider -->
+        <div class="fr-slider-wrap">
+            <div class="fr-slider">
+                <ul class="slides">
+                    <li>
+                        <img src="img/slider/slide1.jpg" alt="">
+                        <div class="fr-slider-cont">
+                            <h3>MEGA SALE -30%</h3>
+                            <p>Winter collection for women's. <br>We all have choices for you. Check it out!</p>
+                            <p class="fr-slider-more-wrap">
+                                <a class="fr-slider-more" href="#">View collection</a>
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="img/slider/slide1.jpg" alt="">
+                        <div class="fr-slider-cont">
+                            <h3>NEW COLLECTION</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>Aliquam consequuntur dolorem doloribus fuga harum</p>
+                            <p class="fr-slider-more-wrap">
+                                <a class="fr-slider-more" href="#">Shopping now</a>
+                            </p>
+                        </div>
+                    </li>
+                    <li>
+                        <img src="img/slider/slide1.jpg" alt="">
+                        <div class="fr-slider-cont">
+                            <h3>SUMMER TRENDS</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>Aliquam consequuntur dolorem doloribus fuga harum</p>
+                            <p class="fr-slider-more-wrap">
+                                <a class="fr-slider-more" href="#">Start shopping</a>
+                            </p>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </div>
-
-        <!-- Slider -->
 
 
         <!-- Popular Products -->
@@ -2235,40 +2218,57 @@
 
         </div><!-- .fr-pop-wrap -->
 
-        <div class="fr-slider-wrap">
-            <div class="fr-slider">
-                <ul class="slides">
-                    <li>
-                        <img src="img/slider/slide1.jpg" alt="">
-                        <div class="fr-slider-cont">
-                            <h3>MEGA SALE -30%</h3>
-                            <p>Winter collection for women's. <br>We all have choices for you. Check it out!</p>
-                            <p class="fr-slider-more-wrap">
-                                <a class="fr-slider-more" href="#">View collection</a>
-                            </p>
-                        </div>
-                    </li>
-                    <li>
-                        <img src="img/slider/slide1.jpg" alt="">
-                        <div class="fr-slider-cont">
-                            <h3>NEW COLLECTION</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>Aliquam consequuntur dolorem doloribus fuga harum</p>
-                            <p class="fr-slider-more-wrap">
-                                <a class="fr-slider-more" href="#">Shopping now</a>
-                            </p>
-                        </div>
-                    </li>
-                    <li>
-                        <img src="img/slider/slide1.jpg" alt="">
-                        <div class="fr-slider-cont">
-                            <h3>SUMMER TRENDS</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br>Aliquam consequuntur dolorem doloribus fuga harum</p>
-                            <p class="fr-slider-more-wrap">
-                                <a class="fr-slider-more" href="#">Start shopping</a>
-                            </p>
-                        </div>
-                    </li>
-                </ul>
+
+        <!-- Banners -->
+        <div class="banners-wrap">
+            <div class="banners-list">
+                <div class="banner-i style_11">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/560x360);"></span>
+                    <div class="banner-i-cont">
+                        <p class="banner-i-subttl">NEW COLLECTION</p>
+                        <h3 class="banner-i-ttl">MEN'S<br>CLOTHING</h3>
+                        <p class="banner-i-link"><a href="section.html">View More</a></p>
+                    </div>
+                </div>
+                <div class="banner-i style_22">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
+                    <div class="banner-i-cont">
+                        <p class="banner-i-subttl">GREAT COLLECTION</p>
+                        <h3 class="banner-i-ttl">CLOTHING<br>ACCESSORIES</h3>
+                        <p class="banner-i-link"><a href="section.html">Show more</a></p>
+                    </div>
+                </div>
+                <div class="banner-i style_21">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
+                    <div class="banner-i-cont">
+                        <h3 class="banner-i-ttl">SPORT<br>CLOTHES</h3>
+                        <p class="banner-i-link"><a href="section.html">Go to catalog</a></p>
+                    </div>
+                </div>
+                <div class="banner-i style_21">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
+                    <div class="banner-i-cont">
+                        <h3 class="banner-i-ttl">MEN AND <br>WOMEN SHOES</h3>
+                        <p class="banner-i-link"><a href="section.html">View More</a></p>
+                    </div>
+                </div>
+                <div class="banner-i style_22">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/270x360);"></span>
+                    <div class="banner-i-cont">
+                        <p class="banner-i-subttl">DISCOUNT -20%</p>
+                        <h3 class="banner-i-ttl">HATS<br>COLLECTION</h3>
+                        <p class="banner-i-link"><a href="section.html">Shop now</a></p>
+                    </div>
+                </div>
+                <div class="banner-i style_12">
+                    <span class="banner-i-bg" style="background: url(http://placehold.it/560x360);"></span>
+                    <div class="banner-i-cont">
+                        <p class="banner-i-subttl">STYLISH CLOTHES</p>
+                        <h3 class="banner-i-ttl">WOMEN'S COLLECTION</h3>
+                        <p>A great selection of dresses, <br>blouses and women's suits</p>
+                        <p class="banner-i-link"><a href="section.html">View More</a></p>
+                    </div>
+                </div>
             </div>
         </div>
 

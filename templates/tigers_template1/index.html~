@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="TT Webstudio">
 
-    <title>Салон меха и кожи Tigers - Официальный сайт. Интернет-магазин.</title>
+    <title>Салон меха и кожи Tigers - Официалный сайт. Интернет-магазин.</title>
 
     <!-- Bootstrap core CSS -->
 	<!--<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">-->
@@ -75,10 +75,6 @@
 			  
               <a class="nav-item nav-link " href="#">МУЖЧИНАМ</a>
         </div>
-	  </div>
-
-      <div class="container">
-		  <!--<a class="navbar-brand" href="#">Tigers</a>-->
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMenu2" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
         </button>
@@ -104,7 +100,6 @@
           </ul>
         </div>
       </div>
-	  
     </nav>
 
     <!-- Page Content -->
